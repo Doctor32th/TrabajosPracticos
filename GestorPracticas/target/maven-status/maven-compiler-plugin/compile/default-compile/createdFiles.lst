@@ -1,5 +1,6 @@
 com\mycompany\gestorpracticas\PrimaryController.class
 module-info.class
+com\mycompany\gestorpracticas\ObjectDBUtil.class
 com\mycompany\gestorpracticas\App.class
 com\mycompany\gestorpracticas\SecondaryController.class
 models\Actividad.class
